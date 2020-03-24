@@ -1,0 +1,99 @@
+SUBCOMMITTEE MEETING MARCH 23
+
+ATTENDEES
+
+Jason
+John
+Riley
+Linda
+Paul
+Leeanne
+
+
+SUBCOMMITTEE MEMBERS
+
+* Leeanne is now on the subcommittee.
+* Jason/Riley/Linda/Leeanne need to be added to Group Conscience email list
+
+
+HOSTS AND ACCOUNTS
+
+* We will upgrade the account for multiple hosts, will decide today how many additional (probably 5).
+* Jason/John/Riley/Leeanne will act as hosts for now. We will discuss which meetings each one is to cover.
+* We will also decide whether to upgrade account to support 500 concurrent users.
+* Costs: 
+   -  $15 per host per month
+   -  $64.99/month for 500 user cap
+   Total:    $140/month  (assuming 5 hosts)
+* Must create username/password for each new account. No Google credentials.
+* As hosts change, simply re-assign the account email address.
+
+
+SERVICE POSTIONS
+
+Linda is managing and tracking all service positions
+
+Open positions:
+* Secretary manager:  Linda
+* Speaker manager:    Linda
+* Service manager:    Linda
+* Zoom jockey/host:   John/Jason/Riley/Leeanne
+* Wacamole muter:     TBD
+* Scribe (capture emails from chats):  Linda+
+* Respond to chat questions online:   TBD
+* Timer:
+* Attendance sheet responder (need email)
+* Reading displayer - displays readings during meetings
+* Hand lowerer: Lowers Zoom hand for attendees after they spoke
+* LGHG liaison / NA liaison: Paul
+* Recording secretary for subcommittee  (John for now)
+
+
+MEETING FORMATS
+
+* We will experiment with meeting formats, including speaker, revolving, and some new tag formats
+* Experiment with more than 100 attendees
+* Try different ways to call on people (use chat window, raise hand, etc).
+* We will not ask visitors to announce themselves.  We will continue to ask for newcomers and birthdays to announce themselves.
+* We will experiment muting all attendees, not allowing them to unmute
+
+SMALLER LGHG MEETINGS
+
+* Many folks are wanting smaller meetings with mostly LGHG attendees, like our in person meetings.  We will discuss ways to implement these.
+* We plan to eliminate some of the meetings from the VirtualNA site. That should dramatically reduce attendance.
+* Committee will decide which meetings.
+
+
+
+
+SEVENTH TRADITION
+* we don't know how long this is going to last
+* short term we will rely on prudent reserve
+* we will leave this decision to LGHG Group / Gar
+* Gar can set everything (bank/PayPal/trusted funds managers).
+* Subcommittee will implement tech details
+* Leeanne will research PayPal and Venmo
+
+
+OFFICIAL EMAIL ADDRESS
+
+* To send out attendee slips online, we need an official email address
+* We could create a gmail address  (los-gatos-home-group-attendance@gmail.com)
+* or we could use the upcoming lghg.org domain
+* 
+
+QUESTIONS
+
+* How many hosts?
+* Can we upgrade to 500 attendees?
+* Which meetings we might move off of VirtualNA?
+
+* ACTION ITEMS
+* Jason to research: can we restrict # of participants (say capacity is 500, can we restrict to 50)?
+* Leeanne to research PayPal and Venmo
+* Subcommittee to decide how many hosts (3 or 5)
+* Subcommittee to determine if we choose to increase capacity
+* Subcommittee to choose which meetings to remove to VirtualNA
+* Linda will assign roles on the flow (scribe, timer, hand-lowerer)
+* John to send notes from this meeting to subcommittee
+
