@@ -1,13 +1,13 @@
-SUBCOMMITTEE MEETING MARCH 23
+SUBCOMMITTEE MEETING MARCH 23, 2020
 
 ATTENDEES
 
+Leeanne
+Linda
 Jason
 John
 Riley
-Linda
 Paul
-Leeanne
 
 
 SUBCOMMITTEE MEMBERS
@@ -16,9 +16,9 @@ SUBCOMMITTEE MEMBERS
 * Jason/Riley/Linda/Leeanne need to be added to Group Conscience email list
 
 
-HOSTS AND ACCOUNTS
+ZOOM HOSTS AND ACCOUNTS
 
-* We will upgrade the account for multiple hosts, will decide today how many additional (probably 5).
+* We will upgrade the zoom account for multiple hosts, will decide today how many additional (probably 5).
 * Jason/John/Riley/Leeanne will act as hosts for now. We will discuss which meetings each one is to cover.
 * We will also decide whether to upgrade account to support 500 concurrent users.
 * Costs: 
@@ -57,7 +57,7 @@ MEETING FORMATS
 * We will not ask visitors to announce themselves.  We will continue to ask for newcomers and birthdays to announce themselves.
 * We will experiment muting all attendees, not allowing them to unmute
 
-SMALLER LGHG MEETINGS
+SMALLER / MORE INTIMATE LGHG MEETINGS
 
 * Many folks are wanting smaller meetings with mostly LGHG attendees, like our in person meetings.  We will discuss ways to implement these.
 * We plan to eliminate some of the meetings from the VirtualNA site. That should dramatically reduce attendance.
@@ -88,12 +88,14 @@ QUESTIONS
 * Can we upgrade to 500 attendees?
 * Which meetings we might move off of VirtualNA?
 
-* ACTION ITEMS
+ACTION ITEMS
+
 * Jason to research: can we restrict # of participants (say capacity is 500, can we restrict to 50)?
 * Leeanne to research PayPal and Venmo
-* Subcommittee to decide how many hosts (3 or 5)
-* Subcommittee to determine if we choose to increase capacity
+* Jason/John/Riley/Leeanne will decide which meetings each one is to cover as Zoom host
+* Subcommittee to decide how many hosts to upgrade to (3 or 5)
+* Subcommittee to determine if we choose to increase capacity to 500 attendees
 * Subcommittee to choose which meetings to remove to VirtualNA
-* Linda will assign roles on the flow (scribe, timer, hand-lowerer)
+* Linda will assign roles on the fly (scribe, timer, hand-lowerer, etc)
 * John to send notes from this meeting to subcommittee
-
+* Paul to liaison with main LGHG committee, communicate decisions and choice points
