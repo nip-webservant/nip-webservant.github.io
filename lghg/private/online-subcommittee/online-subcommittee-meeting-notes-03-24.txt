@@ -1,0 +1,75 @@
+SUBCOMMITTEE MEETING TUESDAY MARCH 24, 2020
+
+ATTENDEES
+
+Leeanne
+Linda
+Jason
+John
+Riley
+Paul
+
+
+HOSTS AND ACCOUNTS
+
+1.  How to turn annotations off, disable recording, cap the capacities
+* Jason to research
+   - to Cap: simply lock the meeting after the desired # of attendees is reached
+   - to turn off annotations: Online settings --> In Meeting (Basic) --> Annotation > Off
+* Jason to research how to disable recording
+
+2. We agreed on FIVE host accounts for now
+*    John, Jason, Riley, Leeanne, plus spare
+
+3. We agreed to keep the max meeting capacity at 100 attendees, will not upgrade for now.
+
+
+NA-IN-PLACE VS LGHG MEETINGS
+
+* We will remove a handful of meetings from VirtualNA site and observe the results in attendance.
+
+* We decided to remove all noon meetings, and additionally Saturday 9AM and Sunday 6PM.
+
+* John removed the noon meetings during the meeting.  Note that 9AM are not listed anymore.
+
+* Already (by noon meeting 3/25) the attendance count was considerably lower - 1/3rd of what it was the previous day.
+
+* Note that if removing these meetings is a problem, we can just add them back (i.e., we can experiment)
+
+
+
+
+ACTION ITEMS
+
+* Leeanne to research PayPal and Venmo
+* Jason/John/Riley/Leeanne will decide which meetings each one is to cover as Zoom host
+* Need to determine how to officially remove meetings from VirtualNA
+* Riley to Add LGHG meetings to SJNA.org  (after we get hosts and new URL in place)
+* Jason to research how to disable recording on meetings
+* John to disable recording on all meetings
+* (from last meeting) Jason/Riley/Linda/Leeanne need to be added to Group Conscience email list
+
+SERVICE POSITIONS
+ 
+* Timer  and reading displayer is same person
+* Hand-lowerer has to be the host
+
+
+ATTENDANCE SHEETS
+
+1. Official LGHG email address
+      - lghg-na-attendance@gmail.com
+       - Linda will create user
+
+2. We need a service position to respond to attendee slip requests
+
+* Linda will cover this for now
+
+
+
+NEW DOMAIN NAME FOR LGHG
+* John will acquire domain name lghg.org.
+* Linda will create email address for lghg.org   (lghg.master@gmail.com)
+* John will create placeholder content and host it on lghg.org
+
+
