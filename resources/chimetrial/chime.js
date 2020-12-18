@@ -86,6 +86,7 @@ var sw = {
       sw.stop();
       sw.reset();
       sw.start();
+      sw.tick();
   }
 
 };
