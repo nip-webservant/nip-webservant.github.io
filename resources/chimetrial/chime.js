@@ -56,7 +56,6 @@ var sw = {
     sw.ego.src="/images/pause.png";
     sw.ego.removeEventListener("click", sw.start);
     sw.ego.addEventListener("click", sw.stop);
-    sw.tick();
   },
 
   stop  : function () {
