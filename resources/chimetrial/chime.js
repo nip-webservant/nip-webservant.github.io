@@ -79,7 +79,7 @@ var sw = {
     sw.etime.innerHTML = "--" + ":" + "--";
     sw.now = -1;
 //    sw.tick();
-  }
+  },
 
   restart : function () {
 
