@@ -12,12 +12,15 @@ var sw = {
     // Get HTML elements
     sw.etime = document.getElementById("sw-time");
     sw.erst = document.getElementById("sw-rst");
+    sw.erestart = document.getElementById("sw-restart");
     sw.ego = document.getElementById("sw-go");
     sw.check = document.getElementById("sw-check");
 
     // Attach listeners
     sw.erst.addEventListener("click", sw.reset);
     sw.erst.disabled = false;
+    sw.erestart.addEventListener("click", sw.restart);
+    sw.erestart.disabled = false;
     sw.ego.addEventListener("click", sw.start);
     sw.ego.disabled = false;
   },
@@ -76,7 +79,16 @@ var sw = {
     sw.etime.innerHTML = "--" + ":" + "--";
     sw.now = -1;
 //    sw.tick();
+  },
+
+  restart : function () {
+
+      sw.stop();
+      sw.reset();
+      sw.start();
+      sw.tick();
   }
+
 };
 
 window.addEventListener("load", sw.init);
